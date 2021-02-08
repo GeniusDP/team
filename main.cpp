@@ -2,8 +2,17 @@
 
 using namespace std;
 
+
+//This must be in any case
+void solve(){
+
+
+}
+//************************
+
+
 int main()
 {
-    cout << "Hello world!" << endl;
+    solve();//This must be in any case
     return 0;
 }
